@@ -19,4 +19,4 @@ The dataset has the following columns: <br>
   <li>year - The year of the ranking</li>
 </ul>  
 <br>
-I make visualizations to compare the female/male ratios and the number of students in top universities. I also make visualizations to discover how the total score varies with the world rank. I examine the research/teaching scores for top universities. See the university_analysis.ipynb notebook to see the code and outputs.
+I make visualizations to compare the female/male ratios and the number of students in top universities. I also make visualizations to discover how the total score varies with the world rank. I examine the research/teaching scores for top universities. See the university_analysis.ipynb notebook to see the code. To view the outputs, please download the notebook.
