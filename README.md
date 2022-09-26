@@ -19,4 +19,7 @@ The dataset has the following columns: <br>
   <li>year - The year of the ranking</li>
 </ul>  
 <br>
-I make visualizations to compare the female/male ratios and the number of students in top universities. I also make visualizations to discover how the total score varies with the world rank. I examine the research/teaching scores for top universities. See the university_analysis.ipynb notebook to see the code. To view the outputs, please download the notebook.
+I make visualizations to compare the female/male ratios and the number of students in top universities. I also make visualizations to discover how the total score varies with the world rank. I examine the research/teaching scores for top universities. See the university_analysis.ipynb notebook to see the code. Some outputs are available as an svg image. Others are only available if you download the notebooks (the plots which call iplot). To see the interactive version of the plotly visualizations, remove the "svg" parameter from fig.show(). 
+<br>
+I also trained a linear regression model to predict the total_score for universities. This is at the bottom of the notebook.
+
